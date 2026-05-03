@@ -1,17 +1,22 @@
-# flutter_application_1
+# Flutter Video App
 
-A new Flutter project.
+A simple Flutter application for displaying videos.
 
-## Getting Started
+## 🎬 Demo Video
 
-This project is a starting point for a Flutter application.
+[▶ Watch Demo](https://github.com/user-attachments/assets/215225b1-6da7-4bf6-b71a-48e8c8728043)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+```bash id="5mn8j1"
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 Flutter Resources
+
+* [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+* [Flutter Documentation](https://docs.flutter.dev/)
+👨‍💻 Developer
+
+Developed by Moustafa Fouda
